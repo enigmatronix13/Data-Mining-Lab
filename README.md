@@ -48,7 +48,6 @@ Representative queries include:
 - Association rule mining
 - Relational database querying
 
----
 
 ## Technologies Used
 
