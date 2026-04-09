@@ -1,0 +1,10 @@
+burger fries coke
+pizza coke
+burger fries
+pizza garlicbread coke
+burger coke
+fries coke
+pizza fries coke
+burger fries coke
+garlicbread coke
+burger fries
